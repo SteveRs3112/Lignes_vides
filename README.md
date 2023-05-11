@@ -18,4 +18,4 @@
 
 ## License
 
-- RS Corp 
+- Libre de droit
