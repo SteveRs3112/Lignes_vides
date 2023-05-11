@@ -16,6 +16,6 @@
 - lancer le script remove.sh avec comme argument 'input-lignes-vides.txt' ce qui donne "remove.sh input-lignes-vides.txt"
 
 
-## License
+## Licence
 
 - Libre de droit
